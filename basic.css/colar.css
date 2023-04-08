@@ -8,12 +8,15 @@
     background-repeat: no-repeat;
     background-size: cover;
 }
-P{
-background-color: navy;
-font-size: 39px;
+
+P {
+    background-color: navy;
+    font-size: 39px;
 }
-h1{
+
+h1 {
     color: red;
     font-family: monospace;
-    font: size 40px;;
+    font: size 40px;
+    ;
 }
